@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Works\aNDROID\Recruit-master\filebrowser\libs\MPAndroidChart-v3.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="5d4eb08a326bdbd7fbbddc769666898c9936b282">
+        <dex dex="D:\Works\aNDROID\Recruit-master\filebrowser\build\intermediates\pre-dexed\debug\MPAndroidChart-v3.0.2_57b9d85308c62f50302c7413a4d9a775bfd2f1bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Works\aNDROID\Recruit-master\filebrowser\libs\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="a696e2356a7f44c04de9cbdfc8523665ba5d1cdd">
+        <dex dex="D:\Works\aNDROID\Recruit-master\filebrowser\build\intermediates\pre-dexed\debug\classes_51cf1d37b7e56a319632850f5bcbca532212ce33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Works\aNDROID\Recruit-master\filebrowser\libs\MPAndroidChart-v3.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="5d4eb08a326bdbd7fbbddc769666898c9936b282">
+        <dex dex="D:\Works\aNDROID\Recruit-master\filebrowser\build\intermediates\pre-dexed\debug\MPAndroidChart-v3.0.2_57b9d85308c62f50302c7413a4d9a775bfd2f1bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Works\aNDROID\Recruit-master\filebrowser\libs\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="a696e2356a7f44c04de9cbdfc8523665ba5d1cdd">
+        <dex dex="D:\Works\aNDROID\Recruit-master\filebrowser\build\intermediates\pre-dexed\debug\classes_51cf1d37b7e56a319632850f5bcbca532212ce33.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_fodler.png",
+        "source": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\src\\main\\res\\drawable\\icon_fodler.png"
+    },
+    {
+        "merged": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_opnefile_browser.png",
+        "source": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\src\\main\\res\\drawable\\icon_opnefile_browser.png"
+    },
+    {
+        "merged": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_file.png",
+        "source": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\src\\main\\res\\drawable\\icon_file.png"
+    },
+    {
+        "merged": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back.png",
+        "source": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\src\\main\\res\\drawable\\icon_back.png"
+    },
+    {
+        "merged": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back02.png",
+        "source": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\src\\main\\res\\drawable\\icon_back02.png"
+    },
+    {
+        "merged": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_divider_line.xml",
+        "source": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\src\\main\\res\\drawable\\shape_divider_line.xml"
+    }
+]

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="ReturnPreDir">返回上一层</string>
+    <string name="ReturnRootDir">返回根目录</string>
+    <string name="app_name">FileBrowser</string>
+    <string name="cancel">取消</string>
+    <string name="sure">确定</string>
+    <style name="AppTheme" parent="android:Theme.Light">
+
+    </style>
+</resources>

@@ -1,0 +1,54 @@
+apply plugin: 'com.android.application'
+
+
+
+
+
+
+buildscript{
+    repositories{
+        jcenter()
+    }
+
+    dependencies{
+        classpath "com.android.tools.build:gradle:2.3.0"
+    }
+}
+
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "28.0.2"
+
+    dexOptions {
+        jumboMode true
+    }
+
+    defaultConfig {
+
+        minSdkVersion 17
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+
+}
+
+
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile files('libs/classes.jar')
+    compile files('libs/MPAndroidChart-v3.0.2.jar')
+}
+
+
+
+

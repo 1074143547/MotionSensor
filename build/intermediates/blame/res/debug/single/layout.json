@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_file_browser_acitivity.xml",
+        "source": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\src\\main\\res\\layout\\activity_file_browser_acitivity.xml"
+    },
+    {
+        "merged": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\build\\intermediates\\res\\merged\\debug\\layout\\layout_file_select_list.xml",
+        "source": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\src\\main\\res\\layout\\layout_file_select_list.xml"
+    },
+    {
+        "merged": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\build\\intermediates\\res\\merged\\debug\\layout\\file_item.xml",
+        "source": "D:\\Works\\aNDROID\\Recruit-master\\filebrowser\\src\\main\\res\\layout\\file_item.xml"
+    }
+]
